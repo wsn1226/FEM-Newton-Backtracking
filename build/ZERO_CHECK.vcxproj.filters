@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\build\CMakeFiles\ef452fcf983a6de137257c89d19f09e4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{46CBA3ED-194A-3AF0-854F-8FBBB3674C89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

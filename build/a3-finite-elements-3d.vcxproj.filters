@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\T_linear_tetrahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\V_linear_tetrahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\V_spring_particle_particle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\assemble_forces.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\assemble_stiffness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\build_skinning_matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\d2V_linear_tetrahedron_dq2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\d2psi_neo_hookean_dF2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\dV_linear_tetrahedron_dq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\dV_spring_particle_particle_dq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\dphi_linear_tetrahedron_dX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\dpsi_neo_hookean_dF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\fixed_point_constraints.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\mass_matrix_linear_tetrahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\mass_matrix_mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\phi_linear_tetrahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\pick_nearest_vertices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\src\psi_neo_hookean.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\src\find_min_vertices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\src\init_state.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\src\read_tetgen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\src\visualization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\assignment_setup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\T_linear_tetrahedron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\V_linear_tetrahedron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\V_spring_particle_particle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\assemble_forces.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\assemble_stiffness.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\build_skinning_matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\d2V_linear_tetrahedron_dq2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\d2psi_neo_hookean_dq2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\dV_linear_tetrahedron_dq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\dV_spring_particle_particle_dq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\dphi_linear_tetrahedron_dX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\dpsi_neo_hookean_dF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\fixed_point_constraints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\implicit_euler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\linearly_implicit_euler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\mass_matrix_linear_tetrahedron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\mass_matrix_mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\newtons_method.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\phi_linear_tetrahedron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\pick_nearest_vertices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\psi_neo_hookean.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\include\quadrature_single_point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\include\EigenTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\include\find_min_vertices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\include\init_state.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\include\read_tetgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\shared\include\visualization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a3-finite-elements-3d\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3F038FF3-E62B-3FBB-BAE6-C3B8A3072EAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C7AA412D-6433-30ED-945C-4D0D17F88922}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\18140\DESKTOP\STUDY\UIUC EXCHANGE\PHYSICS_ANIMATION\CSC417-A3-FINITE-ELEMENTS-3D\BUILD\CMAKEFILES\EF452FCF983A6DE137257C89D19F09E4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a3-finite-elements-3d" "-BC:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a3-finite-elements-3d/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a3-finite-elements-3d/build/a3-finite-elements-3d.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
